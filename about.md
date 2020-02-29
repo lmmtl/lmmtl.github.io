@@ -6,7 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 该网站为陳年风褛i的个人网站，仅供本人学习使用，不承担因网站而造成的损失。
-
+个人联系方式：wjysmhs@gmail.com
 
 
 
