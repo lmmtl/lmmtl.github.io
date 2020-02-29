@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "你的博客描述 " 
+title: "关于"
+description: "该网站为陳年风褛i的个人网站，仅供本人学习使用，不承担因网站而造成的损失。" 
 header-img: "img/green.jpg"
 ---
 
