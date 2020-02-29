@@ -1,6 +1,6 @@
 # Site settings
 title: 陳年风褛i # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/black.jpg"
 tagline: "cn"  
 description: "无聊时建站，仅供本人学习使用"  # 一句话描述你的博客
 baseurl: ""
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "陳年风褛i" # 你的名字
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/black.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
