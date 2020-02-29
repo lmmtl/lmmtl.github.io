@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "精选"
+title: "Milestone"
 description: "代表作"
 header-img: "img/zhihu.jpg"
 ---
