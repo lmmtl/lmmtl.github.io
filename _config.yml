@@ -8,7 +8,7 @@ url: "http://llmmtl.github.io"  # 此处填写你的博客地址
 
 # About/contact
 owner: 
-  name: "陳年风褛i" # 填写作者信息：名字
+  name: "Wang J.Y." # 填写作者信息：名字
   email: wjysmhs@gmail.com # 填写作者信息：邮箱
   bio: "无聊时建站，仅供本人学习使用" # 填写作者信息：博客描述
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "陳年风褛i" # 你的名字
+      author: "Wang J.Y." # 你的名字
       header-img: "img/black.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
