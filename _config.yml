@@ -1,10 +1,10 @@
 # Site settings
-title: 陳年风褛i # 你的博客名字，可以定义修订
+title: LLM&WJY # 你的博客名字，可以定义修订
 header-img: "img/black.jpg"
 tagline: "cn"  
-description: "无聊时建站，仅供本人学习使用"  # 一句话描述你的博客
+description: "记录我和小林的日常"  # 一句话描述你的博客
 baseurl: ""
-url: "http://chennfl.github.io"  # 此处填写你的博客地址 
+url: "http://llmmtl.github.io"  # 此处填写你的博客地址 
 
 # About/contact
 owner: 
